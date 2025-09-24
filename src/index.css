@@ -1,0 +1,6 @@
+
+
+/* small helper to ensure body background displays */
+html, body, #root {
+  height: 100%;
+}
