@@ -164,7 +164,7 @@ const TrozzoWebsite = () => {
           </div>
 
           <div className="text-box-enhanced" style={{
-  backgroundImage: 'url(/src/img/fond.jpeg)',
+  backgroundImage: 'url(/public/fond.jpeg)',
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundRepeat: 'no-repeat',
@@ -198,7 +198,7 @@ Colaboramos con empresas, entidades, casas de eventos y celebraciones especiales
                 <div className="card card-front">
                   <div className="card-image maracumango-img">
                     <img 
-                      src="/src/img/mango.jpg" 
+                      src="/public/mango.jpg" 
                       alt="Maracumango - Postre tropical de mango"
                       style={{ 
                         width: '100%', 
@@ -267,7 +267,7 @@ Colaboramos con empresas, entidades, casas de eventos y celebraciones especiales
                 <div className="card card-front">
                   <div className="card-image chococafe-img">
                     <img 
-                      src="/src/img/cafe.jpg" 
+                      src="/public/cafe.jpg" 
                       alt="Chococafé - Postre de chocolate y café"
                       style={{ 
                         width: '100%', 
